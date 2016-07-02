@@ -1,0 +1,9 @@
+.DS_Store
+*.db
+build/
+node_modules/
+pre_build/
+cordova-ws/platforms/**
+cordova-ws/plugins/**
+cordova-ws/www
+.idea
